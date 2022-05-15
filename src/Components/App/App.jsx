@@ -1,14 +1,13 @@
-import './App.css';
-import SmartCounter from '../Smartcounter/Smartcounter';
-
+import "./App.css";
+import SmartCounter from "../Smartcounter/Smartcounter";
 
 function App() {
-  return (
-    <>
-<h1>Hello World!</h1>
-<SmartCounter/>
+return (
+<>
+<h1>Aulas React-Hooks</h1>
+<SmartCounter />
 </>
-  );
+);
 }
 
 export default App;
