@@ -4,7 +4,7 @@ import Ifoodcounter from "../Ifoodcounter/Ifoodcounter";
 function App() {
   return (
     <>
-      <h1>Aulas React-Hooks</h1>
+      <h1>IFood Counter</h1>
       <Ifoodcounter />
     </>
   );
